@@ -33,16 +33,16 @@ Interface is made thanks to library `PyQt5`
 
 + The start page
 
-![au] (https://github.com/A-Elbereth-Gilthoniel/images/blob/main/messenger1.png)
+![au](https://github.com/A-Elbereth-Gilthoniel/images/blob/main/messenger1.png)
 
 + Authorization
 
-![AA] (https://github.com/A-Elbereth-Gilthoniel/images/blob/main/messenger3.png)
+![AA](https://github.com/A-Elbereth-Gilthoniel/images/blob/main/messenger3.png)
 
 + Registration
 
-![bb] (https://github.com/A-Elbereth-Gilthoniel/images/blob/main/messenger2.png)
+![bb](https://github.com/A-Elbereth-Gilthoniel/images/blob/main/messenger2.png)
 
 + Chat
 
-![chat] (https://github.com/A-Elbereth-Gilthoniel/images/blob/main/messenger4.png)
+![chat](https://github.com/A-Elbereth-Gilthoniel/images/blob/main/messenger4.png)
